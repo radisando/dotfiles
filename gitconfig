@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 220061699+radisando@users.noreply.github.com
+	name = Rafael Sandoval
